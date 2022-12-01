@@ -43,6 +43,15 @@ Changelog is rather internal in nature. See release notes for the public overvie
 
 ## Develop
 
+- [#423]
+  - **Description:** Updates href to an absolute path to ensure proper navigation in docs to see icons page
+  - **Products impact:** -
+  - **Addresses:** -
+  - **Components:** -
+  - **Breaking:** no
+  - **Impacts a11y:** no
+  - **Guidance:** -
+
 ## Version 1.5.x
 
 <!-- Release notes prepared for all items below -->
